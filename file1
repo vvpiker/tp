@@ -1,1 +1,3 @@
-some text
+#some text
+a=int(input())
+b=int(input())
