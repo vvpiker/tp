@@ -2,3 +2,4 @@
 C2 string
 
 C4 string
+C5 str
